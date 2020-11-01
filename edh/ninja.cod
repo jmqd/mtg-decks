@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Transmogrifying Wand"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Hostage Taker"/>
+        <card number="1" name="Wingcrafter"/>
+        <card number="1" name="Etrata, the Silencer"/>
+        <card number="1" name="Okiba-Gang Shinobi"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Mistblade Shinobi"/>
+        <card number="1" name="Exclusion Mage"/>
+        <card number="1" name="Slither Blade"/>
+        <card number="1" name="Man-o'-War"/>
+        <card number="1" name="Tetsuko Umezawa, Fugitive"/>
+        <card number="1" name="Aether Adept"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Sakashima's Student"/>
+        <card number="1" name="Higure, the Still Wind"/>
+        <card number="1" name="Ink-Eyes, Servant of Oni"/>
+        <card number="1" name="Moonblade Shinobi"/>
+        <card number="1" name="Departed Deckhand"/>
+        <card number="1" name="Mothdust Changeling"/>
+        <card number="1" name="Skullsnatcher"/>
+        <card number="1" name="Thassa, God of the Sea"/>
+        <card number="1" name="Azra Smokeshaper"/>
+        <card number="1" name="Silent-Blade Oni"/>
+        <card number="1" name="Ingenious Infiltrator"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Hypnotic Siren"/>
+        <card number="1" name="Vampire Cutthroat"/>
+        <card number="1" name="Throat Slitter"/>
+        <card number="1" name="Ninja of the Deep Hours"/>
+        <card number="1" name="Mist-Cloaked Herald"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Faerie Seer"/>
+        <card number="1" name="Ornithopter"/>
+        <card number="1" name="Cloud of Faeries"/>
+        <card number="1" name="Thieving Skydiver"/>
+        <card number="1" name="Smoke Shroud"/>
+        <card number="1" name="Xenograft"/>
+        <card number="1" name="Arcane Adaptation"/>
+        <card number="1" name="Phyrexian Reclamation"/>
+        <card number="1" name="Mark of Eviction"/>
+        <card number="1" name="Kasmina's Transmutation"/>
+        <card number="1" name="Bitterblossom"/>
+        <card number="1" name="Imprisoned in the Moon"/>
+        <card number="1" name="Conspiracy"/>
+        <card number="1" name="Oversold Cemetery"/>
+        <card number="1" name="Oubliette"/>
+        <card number="1" name="Essence Scatter"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Submerge"/>
+        <card number="1" name="Snap"/>
+        <card number="1" name="Misdirection"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Force of Negation"/>
+        <card number="1" name="Foil"/>
+        <card number="1" name="Snuff Out"/>
+        <card number="1" name="Force of Will"/>
+        <card number="1" name="Deadly Rollick"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Tale's End"/>
+        <card number="9" name="Island"/>
+        <card number="1" name="Temple of Deceit"/>
+        <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Hall of the Bandit Lord"/>
+        <card number="1" name="Dismal Backwater"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Dimir Aqueduct"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="River of Tears"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Choked Estuary"/>
+        <card number="1" name="Jwar Isle Refuge"/>
+        <card number="1" name="Dimir Guildgate"/>
+        <card number="7" name="Swamp"/>
+        <card number="1" name="Agadeem's Awakening"/>
+        <card number="1" name="Sea Gate Restoration"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Yuriko, the Tiger's Shadow"/>
+    </zone>
+</cockatrice_deck>
